@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    height:100vh;
+    font-family: 'Hanken Grotesk', sans-serif
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to bottom, #4e21ca,  #2421ca00);
+    padding: 5px;
+    text-align: center;
+    border-radius:100%;
+    margin: auto;
+
+}
+section.one{
+    /* background: #7857ff;
+    background: #2e2be9; */
+    /* Linear Gradient */
+background: linear-gradient(to bottom, #7a5af9, #2e2be9 50%);
+    width: 100%;
+    height: 45vh;
+    color: white;
+    padding: 5px;
+    border-radius: 0px 0px 30px 30px;
+}
+.title {
+text-align: center;
+padding: 10px;
+}
+h1{
+text-align: center;
+font-weight: bold;
+font-size: larger;
+padding: 6px;
+}
+.number1{
+text-align: center;
+font-size:45px ;
+font-weight: bolder;
+margin-top: 10px;
+}
+.number2{
+    text-align: center;
+    opacity: 30%;
+    font-weight: 500;
+
+}
+.text{
+    font-size: small;
+    text-align: center;
+    width: 30ch;
+    margin: auto;
+    opacity: 70%;
+}
+.subtitle{
+    padding-top:45px;
+    color: black;
+    padding-left: 30px;
+}
+.title2{
+color: #ff5757;
+padding:10px;
+padding-left: 35px;
+margin-left: 5px;
+background-color: #f9f2f2;
+border-radius: 10px;
+}
+.logo{
+margin-bottom: -35px;   
+padding-left: 10px;
+}
+.title2num1{
+    color: black;
+    margin-left: 220px;
+    margin-top: -30px;
+}
+.title2num2{
+    color: black;
+    margin-left: 250px;
+    margin-top: -21px;
+    opacity: 30%;
+}
+.firstrectangle{
+    margin-top: 20px;
+    padding-left: 40px;
+    padding-right: 25px;
+}
+.logo2{
+    margin-bottom: -40px;
+    margin-left: -25px;   
+    padding-left: -50px;
+}
+.secondrectangle{
+    margin-top: 30px;
+    padding-left: 40px;
+    padding-right:25px;
+}
+.mem{
+    color: #ffb01f;
+    margin-top: 5px;
+    padding:10px;
+    padding-left: 40px;
+    margin-left: -35px;
+    margin-right: -30px;
+    background-color:#fbf7f0 ;
+    border-radius: 10px; 
+}
+.memnum1{
+    color: black;
+    margin-left: 180px;
+    margin-top: -30px;
+    margin-bottom: 0px;
+}
+.memnum2{
+    color: black;
+    margin-left: 210px;
+    margin-top: -20px;
+    margin-right: -20px;
+    margin-bottom: -5px;
+    opacity: 30%;
+}
+.thirdrectangle{
+    margin-top: -10px;
+    padding-left: 40px;
+    padding-right:25px;
+}
+.logo3{
+    margin-bottom: -40px;
+    margin-top: 30px;
+    margin-left: -25px;
+}
+.verb{
+    color: #00bd91;
+    margin-top: 7px;
+    padding:10px;
+    padding-left: 40px;
+    margin-left: -35px;
+    margin-right: -30px;
+    background-color:#f0fcf9;
+    border-radius: 10px;
+}
+.verbnum1{
+    color: black;
+    margin-left: 180px;
+    margin-top: -30px;
+}
+.verbnum2{
+    color: black;
+    margin-left: 210px;
+    margin-top: -20px;
+    margin-right: -20px;
+    opacity: 30%;
+}
+.logo4{
+    margin-top: 30px;
+    margin-bottom: -40px;
+    margin-left: -25px;
+}
+.vis{
+    color: hsl(234, 85%, 45%);
+    margin-top: 3px;
+    padding:10px;
+    padding-left: 40px;
+    margin-left: -35px;
+    margin-right: -30px;
+    background-color:hsl(228, 12%, 92%);
+    border-radius: 10px;
+}
+.visnum1{
+    color: black;
+    margin-left:180px;
+    margin-top:-30px ;
+}
+.visnum2{
+    color: black;
+    margin-left:210px ;
+    margin-top:-20px ;
+    margin-right: -20px;
+    opacity: 30%;
+}
+.cont{
+    background-color:  #303b5a;
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    padding-left: 40px;
+    margin-left: -35px;
+    margin-right: -30px;
+}
